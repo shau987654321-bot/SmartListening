@@ -1,0 +1,8 @@
+{
+  "name": "SmartListening",
+  "description": "An AI-powered listening comprehension tool for English, Chinese, and Bahasa Melayu. Upload audio to instantly generate quizzes and get feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
